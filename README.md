@@ -1,8 +1,11 @@
 # Furing - japanese wind chime 
 
 ## What is this ?
-This is an 3D application dubbed <b>Furing</b> where you can enjoy "<b><i>furin</i></b>" ringing, which is a japanese wind chime.
-This is programmed by <b>PyOpenGL</b> and <b>glfw</b>.
+This is an 3D application dubbed <b>Furing</b> where you can enjoy "<b><i>furin</i></b>" ringing with ears and eyes.
+Furin is a japanese wind chime which is hung by the window particularly in summer in Japan.
+People enjoy furin rings and get relieve
+
+This application is programmed using <b>PyOpenGL</b> and <b>glfw</b>.
 
 <img width="300" alt="a japanese wind chime" src="https://user-images.githubusercontent.com/81012741/178097805-85a6a9ee-c350-43c0-a08b-b81fc65af7a3.png">
 
