@@ -15,8 +15,8 @@ If you right-click the round part or rectangular part of the model, you can resp
 
 
 ## Installation
-1. clone this repository
-2. create a virtual environment using env.yml
+1. Clone this repository
+2. Create a virtual environment using env.yml
 ```conda env create -n=[env_name] -f=env_name.yml```
-3. execute "furing.py" file
+3. Execute "furing.py" file
 ```python3 furing.py```
