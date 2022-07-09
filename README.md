@@ -1,4 +1,4 @@
-# furing
+# Furing - japanese wind chime 
 
 ## What is this ?
 This is an 3D application dubbed <b>Furing</b> where you can enjoy "<b><i>furin</i></b>" ringing, which is a japanese wind chime.
