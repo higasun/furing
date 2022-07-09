@@ -12,7 +12,7 @@ If you left-click any part of the model, the furin starts swinging and rings a f
 If you right-click the round part or rectangular part of the model, you can respectively change the color.
 
 <img width="300" alt="a japanese wind chime whose color has been changed" src="https://user-images.githubusercontent.com/81012741/178098042-11cb7310-fa5d-455d-99db-2854a7b86d84.png">
--96351ab0566c.png">
+
 
 ## Installation
 1. clone this repository
