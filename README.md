@@ -5,6 +5,7 @@ This is an application dubbed <b>Furing</b> where you can enjoy "<b><i>furin</i>
 
 <img width="300" alt="a japanese wind chime" src="https://user-images.githubusercontent.com/81012741/178097805-85a6a9ee-c350-43c0-a08b-b81fc65af7a3.png">
 
+## Usage
 If you left-click any part of the model, the furin starts swinging and rings a few times.
 
 <img width="300" alt="a japanese wind chime swinging left" src="https://user-images.githubusercontent.com/81012741/178097948-e4236df4-8902-4e5c-aa72-96351ab0566c.png"> <img width="300" alt="a japanese wind chime swinging right" src="https://user-images.githubusercontent.com/81012741/178098120-57a00f79-6b23-42b1-a044-adde393364ec.png">
