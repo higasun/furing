@@ -4,6 +4,7 @@
 This is an 3D application dubbed <b>Furing</b> where you can enjoy a Japanese wind chime, known as "<b><i>furin</i></b>", fluttering and ringing.
 If you have visted Japan, you've seen them hang by the window particularly in summer.
 Furin's sound and flattering relieves the heat of summer.
+If you want to know more about furin, this is tha page for you: https://japanobjects.com/features/furin-wind-chimes
 
 This application is programmed using <b>PyOpenGL</b> and <b>glfw</b>.
 
