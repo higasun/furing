@@ -23,6 +23,6 @@ If you right-click the round part or rectangular part of the model, you can resp
 ## Installation
 1. Clone this repository.
 2. Create a virtual environment using env.yml by
-```conda env create -n=[env_name] -f=env_name.yml```
+```conda env create -f=env.yml```
 3. Execute "furing.py" file by
-```python3 furing.py```
+```python furing.py```
