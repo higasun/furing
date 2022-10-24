@@ -28,7 +28,7 @@ import ctypes
 import open3d as o3d
 from OpenGL.GL import *
 from OpenGL.GLU import *
-from openal import *
+import simpleaudio
 
 WIN_WIDTH = 500  # ウィンドウの幅 / Window width
 WIN_HEIGHT = 500  # ウィンドウの高さ / Window height
@@ -43,8 +43,8 @@ FRAG_SHADER_FILE = os.path.join(os.path.dirname(__file__), "shaders", "render.fr
 MESH_FILE = os.path.join(os.path.dirname(__file__), "data", "furin.obj")
 
 # サウンドファイル
-source_long = oalOpen("data/chiring_long.wav")
-source_short = oalOpen("data/chiring_short.wav")
+source_long = simpleaudio.WaveObject.from_wave_file("data/chiring_long.wav")
+source_short = simpleaudio.WaveObject.from_wave_file("data/chiring_short.wav")
 soundCnt = 0
 
 # 頂点番号配列の大きさ
